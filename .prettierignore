@@ -1,0 +1,14 @@
+node_modules
+.next
+dist
+coverage
+*.log
+.DS_Store
+.env*
+!.env.example
+.git
+
+# Generated files (do not format)
+next-env.d.ts
+*.tsbuildinfo
+package-lock.json

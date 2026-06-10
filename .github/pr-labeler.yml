@@ -40,7 +40,7 @@ build:
           - tsconfig*.json
           - next.config.*
           - eslint.config.js
-          - .prettierrc
+          - prettier.config.js
           - .prettierignore
           - .editorconfig
           - .gitignore
